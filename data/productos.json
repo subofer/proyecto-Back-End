@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1640123456232,
+    "nombre": "Peras",
+    "descripcion": "Fruta de estacion",
+    "codigo": 10,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_927298-MLA29663772966_032019-O.webp",
+    "precio": 50,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "timestamp": 1640123456232,
+    "nombre": "Bananas",
+    "descripcion": "Frutas de estacion, bananas",
+    "codigo": 11,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_945966-MLA47821163482_102021-O.webp",
+    "precio": 50,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "timestamp": 1640123456232,
+    "nombre": "Uvas",
+    "descripcion": "Frutas de estacion, uvas",
+    "codigo": 12,
+    "foto": "https://www.gastronomiavasca.net/uploads/image/file/3436/w700_uva_morada.jpg",
+    "precio": 60,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "timestamp": 1640123456232,
+    "nombre": "zapallo",
+    "descripcion": "Frutas de estacion, zapallo",
+    "codigo": 13,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_762189-MLA43361992181_092020-O.webp",
+    "precio": 80,
+    "stock": 20
+  }
+]
